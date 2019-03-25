@@ -1,0 +1,39 @@
+.pad100{
+    padding: 100px;
+}
+
+.box{
+    width: 50%;
+      margin: 0 auto;
+  }
+
+  .top-bar{
+    background-color: #00be6e;
+    padding: 20px;
+    color: white;
+    font-size: 20px;
+  }
+
+  .card-head{
+    background-color: #33475b;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+
+  .icon-box{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    box-shadow: 1px 1px 1px 1px grey
+  }
+
+  .family-count{
+    background-color: #00be6e;
+    padding: 10px 0 0 5px;
+  }
+
+  .icon-box div{
+    text-align: center;
+    font-size: 50px;
+  }
